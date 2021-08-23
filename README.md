@@ -8,13 +8,13 @@
 - [**Tasks**](#tasks)
 - [0. Read and be familiar with Figma](#0-read-and-be-familiar-with-figma)
 - [1. Header](#1-header)
-  - [2. "What we do..." section](#2-what-we-do-section)
-  - [3. "Our results" section](#3-our-results-section)
-  - [4. Contact us](#4-contact-us)
-  - [5. Footer](#5-footer)
-  - [6. Replace background image with... code!](#6-replace-background-image-with-code)
-  - [7. Let's animate items](#7-lets-animate-items)
-  - [8. And SASS??](#8-and-sass)
+- [2. "What we do..." section](#2-what-we-do-section)
+- [3. "Our results" section](#3-our-results-section)
+- [4. Contact us](#4-contact-us)
+- [5. Footer](#5-footer)
+- [6. Replace background image with... code!](#6-replace-background-image-with-code)
+- [7. Let's animate items](#7-lets-animate-items)
+- [8. And SASS??](#8-and-sass)
 
 ## Concepts
 For this project, students are expected to look at this concept:
@@ -96,7 +96,7 @@ GitHub repository:
 holberton-headphones  
 File: [0-index.html](0-index.html), [0-styles.css](0-styles.css)
  
-### 2. "What we do..." section
+## 2. "What we do..." section
 Copy files from the previous task.
 
 For this second task: **create the “What we do…” section**
@@ -111,7 +111,7 @@ GitHub repository:
 holberton-headphones  
 File: [1-index.html](1-index.html), [1-styles.css](1-styles.css)
  
-### 3. "Our results" section
+## 3. "Our results" section
 Copy files from the previous task.
 
 For this third task: **create the “Our results” section**
@@ -124,7 +124,7 @@ GitHub repository:
 holberton-headphones
 File: [2-index.html](2-index.html), [2-styles.css](2-styles.css)
  
-### 4. Contact us
+## 4. Contact us
 Copy files from the previous task.
 
 A good landing page has always a contact form.
@@ -136,7 +136,7 @@ Repo:
 GitHub repository: holberton-headphones
 File: [3-index.html](3-index.html), [3-styles.css](3-styles.css)
  
-### 5. Footer
+## 5. Footer
 Copy files from the previous task.
 
 Last piece of the page… the Footer!
@@ -161,7 +161,7 @@ GitHub repository:
 holberton-headphones  
 File: [4-index.html](4-index.html), [4-styles.css](4-styles.css)
  
-### 6. Replace background image with... code!  
+## 6. Replace background image with... code!  
 #advanced  
 In the section “Our results”; without the use of an image file, draw each pentagon using HTML and CSS.
 
@@ -171,7 +171,7 @@ GitHub repository:
 holberton-headphones  
 File: [100-index.html](100-index.html), [100-styles.css](100-styles.css)
  
-### 7. Let's animate items  
+## 7. Let's animate items  
 #advanced
 From [4-index.html](4-index.html) and [4-styles.css](4-styles.css), add fun animations to “What we do…” and “Our results” sections items row. Either all the time, either when hover.
 
@@ -183,7 +183,7 @@ GitHub repository:
 holberton-headphones  
 File: [101-index.html](101-index.html), [101-styles.css](101-styles.css)
  
-### 8. And SASS??  
+## 8. And SASS??  
 #advanced  
 Take your 101-styles.css file and create a 102-styles.scss that will be the SASS version of it.
 
