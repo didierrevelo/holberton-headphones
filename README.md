@@ -6,17 +6,17 @@
 - [Concepts](#concepts)
 - [Requirements](#requirements)
 - [**Tasks**](#tasks)
-- [0. Read and be familiar with Figma](#0-read-and-be-familiar-with-figma)
-- [1. Header](#1-header)
-- [2. "What we do..." section](#2-what-we-do-section)
-- [3. "Our results" section](#3-our-results-section)
-- [4. Contact us](#4-contact-us)
-- [5. Footer](#5-footer)
-- [6. Replace background image with... code!](#6-replace-background-image-with-code)
-- [7. Let's animate items](#7-lets-animate-items)
-- [8. And SASS??](#8-and-sass)
+  - [0. Read and be familiar with Figma](#0-read-and-be-familiar-with-figma)
+  - [1. Header](#1-header)
+  - [2. "What we do..." section](#2-what-we-do-section)
+  - [3. "Our results" section](#3-our-results-section)
+  - [4. Contact us](#4-contact-us)
+  - [5. Footer](#5-footer)
+  - [6. Replace background image with... code!](#6-replace-background-image-with-code)
+  - [7. Let's animate items](#7-lets-animate-items)
+  - [8. And SASS??](#8-and-sass)
 
-## Concepts
+# Concepts
 For this project, students are expected to look at this concept:
 
 * [Implement a design](https://intranet.hbtn.io/concepts/220)
@@ -32,12 +32,12 @@ Here the final result:
 This webpage has been designed by Nicolas Philippot, UI/UX designer. You can find final screens [here](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/622/Archive.zip)
 
 
-## Requirements
+# Requirements
 
 * you are not allowed to import external CSS framework (like Bootstrap)
 * you are not to use Javascript
 
-## **Tasks**
+# **Tasks**
 ## 0. Read and be familiar with Figma  
 
 Create an account in [Figma](https://intranet.hbtn.io/rltoken/eumOUW-eMS4X9ZDZg9KPLg) and open this [project](https://intranet.hbtn.io/rltoken/2ED3P1a2wnbQqRLi8aXJKw) and “Duplicate to your Drafts” to have access to all design details.
